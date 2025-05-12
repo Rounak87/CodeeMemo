@@ -1,6 +1,6 @@
 # React + Vite
 
-# CodeMemo 📜
+# CodeeMemo 📜
 
 **CodeMemo** is a sleek and efficient web-based memo manager that allows users to store, edit, and manage their **code snippets and notes** effortlessly. Designed with a modern UI and seamless experience.
 
@@ -27,7 +27,7 @@ Clone the repository and install dependencies:
 
 ```sh
 git clone https://github.com/Rounak87/CodeMemo
-cd CodeMemo
+cd CodeeMemo
 npm install
 ```
 
